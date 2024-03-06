@@ -1,0 +1,25 @@
+body {
+    background: fixed;
+    background-attachment: fixed;
+    background-image: url("images/bg.jpeg");
+    background-size: cover;
+}
+#space{
+    color: white;
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    
+}
+#clock
+{
+    font-size: 6.5em;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 30px 10px 30px;
+    backdrop-filter: blur(40px);
+    margin-bottom: 10px;
+}
