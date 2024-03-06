@@ -1,0 +1,37 @@
+body{
+    margin-top: 180px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(35, 171, 225, 0.137);
+    height: 100vh;
+}
+#form
+{
+    background-color: white;
+    text-align: center;
+    margin: auto;
+    max-width: 400px;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px black;
+}
+#textbox{
+    text-align: center;
+    font-size: 1.3em;
+    width: 30%;
+    margin-bottom: 15px;
+    border-radius: 7px;
+}
+button{
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(124, 67, 67);
+    padding: 8px 13px;
+    border: none;
+    cursor: pointer;
+}
+#show{
+    font-size: 1.2em;
+    font-weight: bold;
+
+}
